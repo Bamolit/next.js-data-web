@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "slug": "the-future-of-cities-is-greener-than-you-think",
+    "title": "The future of cities is greener than you think",
+    "description": "From rooftop gardens to car-free streets, a quieter urban revolution is taking root.",
+    "category": "World",
+    "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Modern architecture surrounded by greenery",
+    "author": "Alex Morgan",
+    "date": "2026-11-04",
+    "content": [
+      "Cities are beginning to treat shade, clean air, and shared outdoor space as essential infrastructure. In this imagined neighborhood, former parking lanes have become planted walkways connecting homes to shops and schools.",
+      "The design puts everyday journeys first. Benches give older residents somewhere to rest, while rain gardens absorb water that would otherwise flow straight into drains.",
+      "The difficult part is keeping improvements accessible. Affordable housing, maintenance budgets, and input from local residents belong in the plan from the beginning."
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "small-devices-big-ideas-a-new-era-of-personal-tech",
+    "title": "Small devices. Big ideas. A new era of personal tech.",
+    "description": "Why the next wave of innovation might fit in the palm of your hand.",
+    "category": "Technology",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "People collaborating around laptops",
+    "author": "Jamie Park",
+    "date": "2026-11-04",
+    "content": [
+      "A fictional design team is exploring devices that do fewer things more thoughtfully. Its prototype offers reminders and notes without an endless feed.",
+      "The team tests physical buttons alongside voice controls. Each option introduces tradeoffs in accessibility, battery use, and privacy.",
+      "The experiment asks a useful question: does a new device solve a problem, or simply create another screen to check?"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "the-independent-bookshop-is-having-a-new-chapter",
+    "title": "The independent bookshop is having a new chapter",
+    "description": "Meet the spaces bringing readers, neighbors, and good conversations together.",
+    "category": "Culture",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Tall bookshelves in a library",
+    "author": "Sofia Chen",
+    "date": "2026-11-04",
+    "content": [
+      "In our imagined bookshop, the busiest corner is a shared table beside the window. Readers come for recommendations and stay for conversation.",
+      "The shop hosts poetry evenings and a book exchange. Its small selection changes with suggestions from regular visitors.",
+      "Community programming takes time and money. The owner balances free events with book sales and paid workshops to keep the doors open."
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "take-the-slow-road-rediscovering-the-joy-of-train-travel",
+    "title": "Take the slow road: rediscovering the joy of train travel",
+    "description": "The journey deserves just as much attention as the destination.",
+    "category": "Travel",
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Train crossing a scenic landscape",
+    "author": "Oliver Reed",
+    "date": "2026-11-04",
+    "content": [
+      "A fictional traveler exchanges a rushed flight itinerary for a day beside a train window. Fields, stations, and small towns become part of the trip.",
+      "Traveling slowly allows room for unplanned stops. Packing lightly and checking connections make the experience easier.",
+      "Rail is not equally available everywhere. This story explores the appeal of the journey without pretending every route is convenient or affordable."
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "less-but-better-inside-the-spaces-that-help-us-slow-down",
+    "title": "Less, but better: inside the spaces that help us slow down",
+    "description": "Natural materials and thoughtful details are redefining the modern home.",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Warm living room with natural materials",
+    "author": "Maya Bennett",
+    "date": "2026-11-04",
+    "content": [
+      "This imagined apartment uses a limited palette of wood, linen, and muted paint. Storage is designed around the routines of the people who live there.",
+      "Rather than removing every object, the designer makes room for meaningful ones. A reading lamp and a comfortable chair matter more than a perfect photograph.",
+      "The practical lesson is to begin with how a room is used. Small changes to lighting and layout can make a space more comfortable without a full renovation."
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "a-closer-look-at-the-extraordinary-world-beneath-the-ocean",
+    "title": "A closer look at the extraordinary world beneath the ocean",
+    "description": "New perspectives on an ecosystem we are still learning to understand.",
+    "category": "Science",
+    "image": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Underwater reef and marine life",
+    "author": "Alex Morgan",
+    "date": "2026-11-04",
+    "content": [
+      "In this fictional field journal, a marine research crew documents a reef with cameras and careful notes. Repeated observations reveal changes a single visit would miss.",
+      "The crew records water conditions alongside images. Context helps distinguish a temporary difference from a longer pattern.",
+      "Exploration also brings responsibility. Researchers plan their work to limit disturbance and share methods so others can evaluate their observations."
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "the-neighborhood-caf-is-becoming-more-than-a-coffee-stop",
+    "title": "The neighborhood café is becoming more than a coffee stop",
+    "description": "Small businesses are rethinking what it means to be a local meeting place.",
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Welcoming neighborhood café",
+    "author": "Jamie Park",
+    "date": "2026-11-03",
+    "content": [
+      "An imagined café sets aside a communal table for residents working on local projects. The goal is to turn brief visits into lasting connections.",
+      "The owner experiments with quiet hours and weekend gatherings. Each event must fit within the realities of staffing and limited floor space.",
+      "A welcoming atmosphere cannot replace a sustainable budget. The café tracks costs carefully while listening to what customers actually need."
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "what-happens-when-a-street-belongs-to-its-neighbors",
+    "title": "What happens when a street belongs to its neighbors?",
+    "description": "A weekend experiment makes room for play, conversation, and connection.",
+    "category": "World",
+    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Tree-lined urban street",
+    "author": "Sofia Chen",
+    "date": "2026-11-03",
+    "content": [
+      "Residents in a fictional district close one street to through traffic for a weekend. Temporary tables and play areas replace parked cars.",
+      "Organizers arrange delivery windows and accessible routes before the event. These details help the experiment work for more than just pedestrians.",
+      "Afterward, the neighborhood collects feedback. The most useful responses describe specific problems and improvements rather than a simple yes or no."
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "building-a-web-that-works-for-everyone",
+    "title": "Building a web that works for everyone",
+    "description": "The small accessibility decisions that make a meaningful difference.",
+    "category": "Technology",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Laptop displaying web development work",
+    "author": "Oliver Reed",
+    "date": "2026-11-03",
+    "content": [
+      "A fictional student team reviews its first website using only a keyboard. Missing focus indicators quickly reveal where navigation becomes confusing.",
+      "The students add form labels, descriptive links, and readable contrast. They also test zoomed text on narrow screens.",
+      "Accessibility becomes part of their process rather than a final task. Each new feature is checked with different ways of reading and interacting."
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "inside-the-studios-keeping-handmade-traditions-alive",
+    "title": "Inside the studios keeping handmade traditions alive",
+    "description": "A new generation of makers is finding its own voice in old techniques.",
+    "category": "Culture",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Creative tools and handwritten work",
+    "author": "Maya Bennett",
+    "date": "2026-11-03",
+    "content": [
+      "In this imagined studio, apprentices learn by watching a craftsperson repeat a careful sequence of steps. Practice matters more than speed.",
+      "The makers adapt traditional patterns to contemporary objects. They discuss which changes preserve the character of the work and which erase it.",
+      "Teaching creates another source of income for the studio. It also gives visitors a better understanding of the time behind a handmade object."
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "the-hidden-life-of-an-urban-garden",
+    "title": "The hidden life of an urban garden",
+    "description": "Even a small patch of green can become a place of discovery.",
+    "category": "Science",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Plants growing in a garden",
+    "author": "Alex Morgan",
+    "date": "2026-11-03",
+    "content": [
+      "A fictional school garden becomes an outdoor notebook. Students sketch insects and record which flowers attract visitors at different times.",
+      "They compare sunny and shaded areas without assuming one observation proves a rule. Repeated notes help them ask better questions.",
+      "The project shows how science can begin close to home. Curiosity, careful records, and a willingness to revise an idea are the essential tools."
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "a-weekend-away-without-a-packed-itinerary",
+    "title": "A weekend away, without a packed itinerary",
+    "description": "Finding more in a trip by planning a little less.",
+    "category": "Travel",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Mountain peaks in soft light",
+    "author": "Jamie Park",
+    "date": "2026-11-03",
+    "content": [
+      "Our fictional travel diary begins with one plan: take a walk before breakfast. The rest of the weekend leaves space for rest and exploration.",
+      "The traveler still checks transport, weather, and accommodation. A flexible schedule works best when the practical foundations are secure.",
+      "The experience suggests that memorable trips do not need a long checklist. A familiar place can feel different when there is time to notice it."
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "why-everyday-objects-deserve-great-design",
+    "title": "Why everyday objects deserve great design",
+    "description": "A closer look at the quiet details we tend to overlook.",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Minimal architectural forms",
+    "author": "Sofia Chen",
+    "date": "2026-11-02",
+    "content": [
+      "A fictional design class studies a kettle, a door handle, and a desk lamp. Each object reveals decisions about grip, weight, and feedback.",
+      "Students sketch alternatives and ask classmates to try simple prototypes. Features that look elegant on paper do not always feel comfortable in use.",
+      "The exercise shifts attention from appearance to experience. Good design often becomes visible only when something fails to work as expected."
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "repair-reuse-repeat-the-shops-giving-objects-a-second-life",
+    "title": "Repair, reuse, repeat: the shops giving objects a second life",
+    "description": "A practical idea is inspiring a different kind of small business.",
+    "category": "Business",
+    "image": "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Busy creative workshop",
+    "author": "Oliver Reed",
+    "date": "2026-11-02",
+    "content": [
+      "An imagined repair shop starts with a clear menu of services and upfront estimates. Customers bring lamps, chairs, and small household objects.",
+      "Not everything can be repaired safely or economically. The staff explain these limits before beginning work.",
+      "Workshops teach basic maintenance alongside the paid service. The business depends on skilled time, reliable parts, and realistic expectations."
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "learning-to-code-one-small-project-at-a-time",
+    "title": "Learning to code, one small project at a time",
+    "description": "Why finishing something simple can teach more than starting something huge.",
+    "category": "Technology",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Code on a computer screen",
+    "author": "Maya Bennett",
+    "date": "2026-11-02",
+    "content": [
+      "A fictional beginner builds a news site from a small JSON file. The first milestone is simply displaying a headline correctly.",
+      "The learner adds reusable cards, dynamic routes, and a search input in separate steps. Each improvement introduces one concept with an immediate result.",
+      "When something breaks, the small scope makes debugging manageable. A finished project becomes both a confidence boost and a reference for future work."
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "a-public-library-with-room-for-more-than-books",
+    "title": "A public library with room for more than books",
+    "description": "Shared spaces are finding new ways to serve their communities.",
+    "category": "World",
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Public library reading space",
+    "author": "Alex Morgan",
+    "date": "2026-11-02",
+    "content": [
+      "This imagined library offers quiet desks, a tool-lending shelf, and introductory computer sessions. Its services grow from conversations with local residents.",
+      "Staff organize different activities into separate zones. A lively workshop should not make a quiet reading area unusable.",
+      "New programs need resources and training. The library evaluates attendance and feedback before expanding an experiment into a permanent service."
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "listening-closely-the-return-of-the-album-evening",
+    "title": "Listening closely: the return of the album evening",
+    "description": "A simple ritual invites music fans to give a record their full attention.",
+    "category": "Culture",
+    "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Microphone in a music venue",
+    "author": "Jamie Park",
+    "date": "2026-11-02",
+    "content": [
+      "A fictional group of friends meets each month to listen to one album from beginning to end. Phones stay out of reach during the music.",
+      "Each host shares a short introduction, then leaves room for others to form their own impressions. The conversation afterward is open and informal.",
+      "The ritual is less about nostalgia than attention. Giving time to a complete work can reveal details missed in a shuffled playlist."
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "looking-up-a-beginner-s-night-under-the-stars",
+    "title": "Looking up: a beginner’s night under the stars",
+    "description": "You do not need expensive equipment to start noticing the night sky.",
+    "category": "Science",
+    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Colorful stars and nebula in space",
+    "author": "Sofia Chen",
+    "date": "2026-11-02",
+    "content": [
+      "In this fictional observation diary, a learner begins by identifying a few bright shapes in the sky. A notebook helps track what changes between evenings.",
+      "Cloud cover and nearby lights affect what is visible. The learner chooses a safe viewing spot and allows time for their eyes to adjust.",
+      "The purpose is not to identify everything at once. Recognizing one new pattern can make the next evening outside feel more familiar."
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "a-different-view-of-the-city-on-two-wheels",
+    "title": "A different view of the city, on two wheels",
+    "description": "Exploring familiar places at the pace of a bicycle.",
+    "category": "Travel",
+    "image": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Bicycle beside a wall",
+    "author": "Oliver Reed",
+    "date": "2026-11-01",
+    "content": [
+      "A fictional city guide follows a short cycling route through parks and side streets. Frequent stops turn a commute into an afternoon of discovery.",
+      "The route prioritizes protected paths and clear crossings. Riders check local rules and choose a distance that suits their experience.",
+      "Exploring nearby can be rewarding without becoming a major expedition. The best route is one that feels comfortable enough to enjoy."
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "color-outside-the-lines-a-warmer-approach-to-interiors",
+    "title": "Color outside the lines: a warmer approach to interiors",
+    "description": "Playful details are bringing personality back into everyday rooms.",
+    "category": "Design",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Thoughtfully styled interior",
+    "author": "Maya Bennett",
+    "date": "2026-11-01",
+    "content": [
+      "An imagined home refresh begins with a single colorful chair. Textiles and artwork gradually build a palette around it.",
+      "The residents test paint samples at different times of day. Natural and artificial light change how each color feels.",
+      "Rather than following a strict trend, the project reflects the people using the space. A room can be coherent while still leaving space for surprise."
+    ]
+  }
+]

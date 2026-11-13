@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { ArrowUp } from "lucide-react";
+import Link from "next/link";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -19,11 +21,24 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased scroll-smooth`}>
+      <body className="min-h-full flex flex-col">
+        {children}
+
+        <footer className="w-full">
+          <div className="w-full max-w-300 mx-auto px-4 sm:px-6 md:px-8 lg:px-10 py-6 mt-10 flex flex-row items-center  gap-4">
+            <div className="flex flex-col gap-1">
+              <span className="text-7 text-[#22241F]">the daily ▧</span>
+              <span className="text-xs text-[#65675F]">A fresh perspective. Every day.</span>
+            </div>
+
+            <Link href="#top" className="flex items-center gap-2 text-sm text-[#22241F] hover:text-[#C44724] transition-colors whitespace-nowrap shrink-0">
+              Back to top
+              <ArrowUp size={16} />
+            </Link>
+          </div>
+        </footer>
+      </body>
     </html>
   );
 }
